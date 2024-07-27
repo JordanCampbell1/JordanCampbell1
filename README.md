@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JordanCampbell1
+- 👋 Hi, I’m Jordan Campbell
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything web based
